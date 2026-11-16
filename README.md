@@ -2,7 +2,7 @@
 
 **[Download Codex Notch 1.0.0 for Mac (ZIP)](https://github.com/BornGamer23/codex-notch/releases/download/v1.0.0/Codex-Notch-1.0.0-macOS-arm64.zip)** · Apple silicon · macOS 13 or later
 
-![Codex Notch animating through reading files, thinking, building, answering, and completion](docs/codex-notch-demo.gif)
+![Codex Notch animating through reading files, thinking, building, answering, and completion](https://raw.githubusercontent.com/BornGamer23/codex-notch/main/docs/codex-notch-demo.gif)
 
 Unzip the download, move **Codex Notch.app** to Applications, and open it. No build tools required. This release is not Apple-notarized, so macOS may block the first launch.
 
