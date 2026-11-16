@@ -1,10 +1,14 @@
 # Codex Notch
 
+**[Download Codex Notch 1.0.0 for Mac (ZIP)](https://github.com/BornGamer23/codex-notch/releases/download/v1.0.0/Codex-Notch-1.0.0-macOS-arm64.zip)** · Apple silicon · macOS 13 or later
+
+Unzip the download, move **Codex Notch.app** to Applications, and open it. No build tools required. This release is not Apple-notarized, so macOS may block the first launch.
+
 A native, local-only macOS menu bar app inspired by the [hypnotizing UI reference](https://www.inspora.design/posts/hypnotizing-ui).
 
 ## Open
 
-Run `bash build.sh` first, then double-click **Codex Notch.app**. Its glowing grid icon appears in the menu bar; the HUD sits at the top of the built-in notched display, or the primary display when no notch is present. Click the HUD or the grid menu → **Codex Notch…** to open its controls.
+After you open the app, its glowing grid icon appears in the menu bar; the HUD sits at the top of the built-in notched display, or the primary display when no notch is present. Click the HUD or the grid menu → **Codex Notch…** to open its controls.
 
 - **Play demo** cycles through reading, thinking, building, answering, and completion. Stop the demo to resume actual activity.
 - **Pause activity** pauses the display of live activity.
